@@ -279,3 +279,10 @@ html {
      scrollbars hidden */
   overflow: hidden;
 }
+.scrollable-content {
+  height: 150px;
+}
+
+.scrollable-content::-webkit-scrollbar {
+  display: none;
+}
