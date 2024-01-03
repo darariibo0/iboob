@@ -264,3 +264,6 @@ html {
     user-select: none;
     pointer-events: none
 }
+body::-webkit-scrollbar {
+  display: none;
+}
