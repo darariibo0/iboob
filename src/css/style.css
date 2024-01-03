@@ -264,3 +264,18 @@ html {
     user-select: none;
     pointer-events: none
 }
+.no-horizontal-scrollbar {
+  /* Keeps the horizontal scrollbar hidden */
+  overflow-x: hidden;
+}
+
+.no-vertical-scrollbar {
+  /* Keeps the vertical scrollbar hidden */
+  overflow-y: hidden;
+}
+
+.no-scrollbars {
+  /* Keeps both the horizontal and vertical 
+     scrollbars hidden */
+  overflow: hidden;
+}
