@@ -155,7 +155,7 @@ html {
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(-105deg, #009acc, #363795);
+    background-image: linear-gradient(-105deg, #009acc, #4C7331);
     z-index: 1337;
     transition: all 1s ease-out
 }
